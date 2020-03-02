@@ -1,0 +1,24 @@
+<html>
+<head><title>inline</title>
+<style>
+h1{color:#ff0000;
+}
+h2{color:#6A7;}
+h3{color:rgb(0%,35%,75%);}
+h4{color:rgb(0,100,155);}
+h1{background-color:teal;}
+h1{text-align:right;}
+
+</style>
+</head>
+<body style="background-image:url('im.jpg');
+background-repeat:repeat-x;
+background-attachment:scroll;
+background-position:500px 200px;">
+<h1>welcome to presidency </h1>
+<h2>welcome to presidency </h2>
+<h3>welcome to presidency </h3>
+<h4>welcome to presidency </h4>
+
+</body>
+</html>
